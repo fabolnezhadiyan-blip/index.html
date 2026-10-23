@@ -1,0 +1,29 @@
+h1{
+color: darkgreen; 
+text-align: center;
+
+}
+
+body{
+background-color: antiquewhite ;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+.card{
+    background: white;
+  width: 220px;
+  padding: 20px;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 3px 12px #00000012;
+} 
+.card img {
+  width: 100%;}
+
+  .products {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
